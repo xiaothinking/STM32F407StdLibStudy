@@ -418,11 +418,6 @@
               <FilePath>..\Souce\uart.c</FilePath>
             </File>
             <File>
-              <FileName>lcd.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Souce\lcd.c</FilePath>
-            </File>
-            <File>
               <FileName>stm32f4xx_it.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Souce\stm32f4xx_it.c</FilePath>
@@ -433,24 +428,14 @@
               <FilePath>..\Souce\timer.c</FilePath>
             </File>
             <File>
-              <FileName>key.c</FileName>
+              <FileName>lan8720.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\Souce\key.c</FilePath>
-            </File>
-            <File>
-              <FileName>sram.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Souce\sram.c</FilePath>
+              <FilePath>..\Souce\lan8720.c</FilePath>
             </File>
             <File>
               <FileName>malloc.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Souce\malloc.c</FilePath>
-            </File>
-            <File>
-              <FileName>lan8720.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Souce\lan8720.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -496,26 +481,6 @@
               <FileName>stm32f4x7_eth.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\Libraries\STM32F4x7_ETH_Driver\src\stm32f4x7_eth.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>USMART</GroupName>
-          <Files>
-            <File>
-              <FileName>usmart.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\USMART\usmart.c</FilePath>
-            </File>
-            <File>
-              <FileName>usmart_config.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\USMART\usmart_config.c</FilePath>
-            </File>
-            <File>
-              <FileName>usmart_str.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\USMART\usmart_str.c</FilePath>
             </File>
           </Files>
         </Group>
